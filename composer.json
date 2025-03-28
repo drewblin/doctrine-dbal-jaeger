@@ -3,7 +3,7 @@
   "license": "MIT",
   "require": {
     "php": "^8.1",
-    "doctrine/dbal": "^4.2",
+    "doctrine/dbal": "^4.0",
     "code-tool/jaeger-client-php": "^3"
   }
   ,
